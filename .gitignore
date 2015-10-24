@@ -272,3 +272,6 @@ Makefile
 
 # Cross compilation
 cross/rootfs/*
+
+# docfx
+_site/
