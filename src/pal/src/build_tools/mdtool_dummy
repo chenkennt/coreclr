@@ -1,7 +1,0 @@
-#!/bin/sh
-
-#
-# Copyright (c) Microsoft Corporation.  All rights reserved.
-#
-
-echo mdtool_dummy : not generating any dependencies
